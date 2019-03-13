@@ -1,0 +1,17 @@
+{
+    "name": "bun520\/aliyun-php-sdk-cms",
+    "description": "aliyun php sdk cms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bun",
+            "email": "bun520@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bun520\\AliyunPhpSdkCms\\": "src/"
+        }
+    }
+}
